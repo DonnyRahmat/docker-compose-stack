@@ -1,0 +1,12 @@
+[16:06:03] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:06:13] [ServerMain/INFO]: Loaded 7 recipes
+[16:06:13] [ServerMain/INFO]: Loaded 1271 advancements
+[16:06:17] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[16:06:17] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[16:06:17] [Server thread/INFO]: Loading properties
+[16:06:17] [Server thread/INFO]: Default game type: SURVIVAL
+[16:06:17] [Server thread/INFO]: Generating keypair
+[16:06:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:06:19] [Server thread/INFO]: Using epoll channel type
+[16:06:19] [Server thread/INFO]: Preparing level "world"
+[16:06:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld

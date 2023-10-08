@@ -1,0 +1,6 @@
+sonarqube/postgre/**
+sonarqube/sonarqube/**
+nginx_proxy_manager_etc/**
+minecraft_server/docker/**
+
+**/.idea/**
